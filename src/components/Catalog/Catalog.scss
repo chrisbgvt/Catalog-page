@@ -1,0 +1,20 @@
+.catalog {
+    .filter-btn {
+        border-radius: 0;
+        background-color: #fff;
+        color: #000;
+        border-color: #c6c6c6;
+        display: flex;
+        align-items: center;
+    }
+
+    .load-more {
+        padding: 10px 15px;
+        margin: auto;
+        display: flex;
+        border-radius: 0;
+        background-color: #fff;
+        color: #000;
+        border-color: #c6c6c6;
+    }
+}

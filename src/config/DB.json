@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "image": "https://media.istockphoto.com/id/1156214551/photo/modern-green-room-door-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=atF_BMDWZSevShbmO3MiZZmq7vmn8uA0QW730Np_1Gc=",
+        "name": "A green door",
+        "price": "120.50",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "onSale": "true",
+        "brand": "Ikea",
+        "salePrice": "80.50",
+        "categorie": "Interior",
+        "created_at": "07-12-2023",
+        "rating": "3"
+    },
+    {
+        "id": 2,
+        "image": "https://st3.depositphotos.com/1014680/16209/i/450/depositphotos_162094036-stock-photo-used-wooden-table-isolated.jpg",
+        "name": "Table",
+        "price": "100",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "onSale": "true",
+        "brand": "Ikea",
+        "salePrice": "50",
+        "categorie": "Interior",
+        "created_at": "06-12-2023",
+        "rating": "5"
+    },
+    {
+        "id": 3,
+        "image": "https://thumbs.dreamstime.com/b/wooden-chair-isolated-11718982.jpg",
+        "name": "Chair",
+        "price": "100",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "onSale": "false",
+        "brand": "Lumens",
+        "salePrice": "50",
+        "categorie": "Interior",
+        "created_at": "07-08-2023",
+        "rating": "4"
+    },
+    {
+        "id": 4,
+        "image": "https://stylesatlife.com/wp-content/uploads/2021/03/Luxury-Kashmiri-Carpet-Design-2.jpg.webp",
+        "name": "Carpet",
+        "price": "200",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "onSale": "false",
+        "brand": "Doma",
+        "salePrice": "150",
+        "categorie": "Interior",
+        "created_at": "07-20-2023",
+        "rating": "3"
+    },
+    {
+        "id": 5,
+        "image": "https://images.thdstatic.com/productImages/0ba908c4-0f57-453f-8743-425488418514/svn/troy-bilt-gas-push-mowers-tb110-64_1000.jpg",
+        "name": "Lawnmower",
+        "price": "300",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "onSale": "false",
+        "brand": "Stihl",
+        "salePrice": "200",
+        "categorie": "Outside",
+        "created_at": "07-10-2023",
+        "rating": "1"
+    },
+    {
+        "id": 6,
+        "image": "https://img.freepik.com/free-photo/mix-beans_1339-260.jpg",
+        "name": "Seeds",
+        "price": "20",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "onSale": "false",
+        "brand": "Renee",
+        "salePrice": "15",
+        "categorie": "Outside",
+        "created_at": "07-28-2023",
+        "rating": "5"
+    },
+    {
+        "id": 7,
+        "image": "https://www.collinsdictionary.com/images/full/gardenhose_524957278_1000.jpg",
+        "name": "Garden hose",
+        "price": "50",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "onSale": "true",
+        "brand": "Ikea",
+        "salePrice": "25",
+        "categorie": "Outside",
+        "created_at": "07-31-2023",
+        "rating": "4"
+    }
+]
