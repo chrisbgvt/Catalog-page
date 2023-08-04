@@ -11,10 +11,6 @@ const Filter = ({catalogProducts, setProducts, setItemsPerPage, isActiveMobileFi
     const [selectedOnSale, setSelectedOnSale] = useState(null);
     const [selectedBrand, setSelectedBrand] = useState(null);
 
-    // useEffect(() => {
-    //     setFilteredProducts(catalogProducts);
-    // }, [catalogProducts]);
-
     useEffect(() => {
         let newFilteredProducts = catalogProducts;
         
@@ -40,8 +36,6 @@ const Filter = ({catalogProducts, setProducts, setItemsPerPage, isActiveMobileFi
             setSelectedBrand(e.target.value);
         }
         const newFilteredProducts = filteredProducts.filter(x => x[type] === e.target.value);
-        // const newFilteredProducts = filteredProducts.filter(x => x[type] === (e.target.value === 'true'));
-        // setFilteredProducts(newFilteredProducts);
         setProducts(newFilteredProducts);
         setItemsPerPage(3);
     };
